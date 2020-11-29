@@ -1,4 +1,4 @@
-# koera_flag_classification 
+# Flag_Classification_model
   
   #### model.load_model을 이용하여 학습된 모델을 불러오면 된다. 
   - (1) 클라우드에서 데이터셋을 다운받기
