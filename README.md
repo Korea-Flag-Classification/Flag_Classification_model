@@ -4,7 +4,7 @@
 
   
 
-  ![img](/Users/jeongjaeyeong/Desktop/img.jpg) 
+  ![](https://github.com/Korea-Flag-Classification/Flag_Classification_model/blob/main/img/img.jpg) 
 
   
 
