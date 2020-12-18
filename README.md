@@ -1,18 +1,17 @@
 # Flag_Classification_model
 
-- **Introduction**
+## Introduction
 
   
 
-  ![](https://github.com/Korea-Flag-Classification/Flag_Classification_model/blob/main/img/img.jpg) 
+  ![]('https://github.com/Korea-Flag-Classification/Flag_Classification_model/blob/main/img/img.jpg', width=600) 
+
+  
+#### 2020.12 Grand Prize, AI Contest, hosted by Ministry of Science and ICT, Republic of Korea. 
 
   
 
-  - 2020.12 Grand Prize, AI Contest, hosted by Ministry of Science and ICT, Republic of Korea. 
-
-  
-
-- **Requirements**
+## Requirements
 
     to unzip data
 
@@ -20,14 +19,14 @@
 !unzip ../datset.zip
 ```
 
-- **Demonstration**
+## Demonstration
 
-  - 1st  
-
-    
-
-  - 2nd. 
+#### 1st
 
     
 
-  - Result
+#### 2nd  
+
+
+#### Result  
+
