@@ -4,7 +4,7 @@
 
   
 
-  ![]('https://github.com/Korea-Flag-Classification/Flag_Classification_model/blob/main/img/img.jpg', width=600) 
+  ![](https://github.com/Korea-Flag-Classification/Flag_Classification_model/blob/main/img/img.jpg'){width:600px;}
 
   
 #### 2020.12 Grand Prize, AI Contest, hosted by Ministry of Science and ICT, Republic of Korea. 
