@@ -13,7 +13,7 @@
 
 ## Requirements
 
-    to unzip data
+to unzip data
 
 ```bash
 !unzip ../datset.zip
